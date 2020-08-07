@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: CloudCar – In-car computing platform
 description: A platform to unleash the data locked inside our cars to application developers, and improve in-car technologies.
 
 ---

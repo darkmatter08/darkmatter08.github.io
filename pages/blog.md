@@ -75,7 +75,7 @@ The HMI for the real driving simulator.
 
 * * * 
 
-#### [RR2P150 Transfer Line, Main Injector Division, Fermi Nat’l Accelerator Lab<br><sup>Summer 2010</sup>](blog-rr2p150.html)
+#### [RR2P150 Transfer Line, Fermilab<br><sup>Summer 2010</sup>](blog-rr2p150.html)
 Developed a new transfer line to enable Femilab’s Main Injector take on a new era of research. 
 
 * * * 
