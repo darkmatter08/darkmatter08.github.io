@@ -4,6 +4,32 @@ title: Blog
 description: Shawn Jain's Blog
 ---
 
+#### [Gradient Descent and Chain-Linked Systems (on Medium)<br><sup>July 2020</sup>](https://medium.com/@blakeelias/gradient-descent-and-chain-linked-systems-74ef5ec8444)
+On Broken Incentives and Deadlock.
+
+Co-written with [Blake Elias](http://blakeelias.name/).
+
+* * * 
+
+#### [SWAP: Softmax Weighted Average Pooling (on Medium)<br><sup>June 2020</sup>](https://medium.com/@shawnjain.08/swap-softmax-weighted-average-pooling-70977a69791b)
+Our method, softmax-weighted average pooling (SWAP), applies average-pooling, but re-weights the inputs by the softmax of each window.
+
+Co-written with [Blake Elias](http://blakeelias.name/).
+
+* * * 
+
+#### [Do Transformers Understand Time?<br><sup>March 2020</sup>](blog-transformers-poster.html)
+
+[[Blog (pdf)](/assets/media/TransformersTime/TransformersTime_Blog.pdf)]
+[[Paper Draft (pdf)](/assets/media/TransformersTime/TransformersTime_EMNLP_style_short.pdf)]
+[[Poster](blog-transformers-poster.html)]
+
+Mentors: [Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/) and [Yonatan Bisk](https://yonatanbisk.com/)
+
+<!-- TODO: Add Project with Greg on Speeding Up Transformer Models via Approximate Tensor Operations. -->
+
+* * * 
+
 #### [CityHome Project, MIT Media Lab<br><sup>September 2013 – December 2013</sup>](blog-cityhome.html)
 Omnipresent in home computing interface. Primary interface to CityHome project.
 
@@ -29,7 +55,7 @@ Pay your friends and community members to buy your groceries! Payments through V
 
 * * * 
 
-#### [Test#Code, MIT 6.470 Web Dev Competition<br><sup>January 2013</sup>](blog-test#code.html)
+#### [Test#Code, MIT 6.470 Web Dev Competition<br><sup>January 2013</sup>](blog-testcode.html)
 A programming study and evaluation tool, for students and professors. 
 
 * * * 
