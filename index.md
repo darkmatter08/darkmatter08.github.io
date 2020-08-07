@@ -8,13 +8,6 @@ You've reached my homepage.
 
 ![Shawn](assets/profilepic.jpeg)
 
-Sitemap:
-- [Homepage](index.html)
-- [About Me](pages/about.html)
-- [Blog (18 posts!)](pages/blog.html)
-- [Resume (pdf)](assets/resume.pdf)
-- [Demos](pages/demos.html)
-
 Web Presence:
 - [GitHub](https://github.com/darkmatter08)
 - [LinkedIn](https://www.linkedin.com/in/jainshawn/)
