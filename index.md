@@ -9,7 +9,7 @@ description: Shawn Jain MIT Microsoft Research MSR Uber UberATG ATG Torralba CSA
 
 I am currently an **AI Resident** at **Microsoft Research**.
 
-I'm working on general purpose methods for training and inference in NNs via approximate tensor operations, mentored by [Greg Yang](https://github.com/thegregyang).
+I'm working on general purpose methods for efficient training and inference in NNs via approximate tensor operations, mentored by [Greg Yang](https://github.com/thegregyang).
 
 I previously worked with [Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/) and [Yonatan Bisk](https://yonatanbisk.com/), investigating [Transformer models' temporal reasoning ability](pages/blog-transformers-poster.html).
 
