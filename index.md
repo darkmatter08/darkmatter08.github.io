@@ -13,6 +13,10 @@ I'm working on general purpose methods for efficient training and inference in N
 
 I previously worked with [Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/) and [Yonatan Bisk](https://yonatanbisk.com/), investigating [Transformer models' temporal reasoning ability](pages/blog-transformers-poster.html).
 
+I am increasingly interested in genetic algorithms and feedback alignment -- alternatives to backprop.
+
+<!-- I think [Robo-Doctors](pages/blog-robodoc) will transform "healthcare" into "health." -->
+
 ### Summary
 <!-- Travel to exotic lands on my company's private plane. Close deals on groundbreaking technologies. Be interesting to even the smartest people. -->
 
