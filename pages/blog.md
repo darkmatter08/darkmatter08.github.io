@@ -4,6 +4,11 @@ title: Blog
 description: Shawn Jain's Blog
 ---
 
+#### [Why Hard Tech<br><sup>September 2020</sup>](blog-hard-tech.html)
+Why I work on hard tech, and not social media or web apps.
+
+* * * 
+
 #### [Gradient Descent and Chain-Linked Systems (on Medium)<br><sup>July 2020</sup>](https://medium.com/@blakeelias/gradient-descent-and-chain-linked-systems-74ef5ec8444)
 On Broken Incentives and Deadlock.
 

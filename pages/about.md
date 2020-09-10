@@ -6,6 +6,19 @@ description: About Shawn Jain
 
 If you're interested in my work history, try my [resume](/assets/resume.pdf) or my [LinkedIn](https://www.linkedin.com/in/jainshawn/).
 
+### Summary
+<!-- Travel to exotic lands on my company's private plane. Close deals on groundbreaking technologies. Be interesting to even the smartest people. -->
+
+I am a researcher and engineer investigating core problems in artificial intelligence, cognition, and sensing.
+<br>
+I target applications in computer vision, robotics, and natural language.
+<br>
+I work on frontier technologies, creating new IP and original research.
+<br>
+I transfer tech from lab to product.
+
+Contact me to turn your once-in-a-lifetime moonshot into reality.
+
 ### Contact Me
 
     jains <at> company <dot> com
