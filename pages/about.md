@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 description: About Shawn Jain
+permalink: /about
 ---
 
 If you're interested in my work history, try my [resume](/assets/resume.pdf) or my [LinkedIn](https://www.linkedin.com/in/jainshawn/).
