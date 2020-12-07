@@ -7,6 +7,10 @@ description: Shawn Jain MIT Microsoft Research MSR Uber UberATG ATG Torralba CSA
 
 ![Shawn](assets/profilepic.jpeg )
 
+### 12/7: [OpenAI Talk](/talk/)
+
+---
+
 I am currently an **AI Resident** at **Microsoft Research**.
 
 I'm working on general purpose methods for efficient training and inference in NNs via approximate tensor operations, mentored by [Greg Yang](https://github.com/thegregyang).

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: OpenAI Talk, December 7 2020
-description: OpenAI Talk, December 7 2020
+title: OpenAI Talk, December 7, 2020
+description: OpenAI Talk, December 7, 2020
 permalink: /talk
 ---
 
