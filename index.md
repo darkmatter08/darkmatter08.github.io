@@ -7,7 +7,7 @@ description: Shawn Jain MIT Microsoft Research MSR Uber UberATG ATG Torralba CSA
 
 ![Shawn](assets/profilepic.jpeg )
 
-### 12/7: [OpenAI Talk](/talk/)
+### 12/7: [OpenAI Talk](/talk)
 
 ---
 
