@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  
+title: Shawn Jain's Homepage
 # tagline: Shawn Jain's Homepage
 description: Shawn Jain MIT Microsoft Research MSR Uber UberATG ATG Torralba CSAIL Optimus Optimus Ride Spot Trading Google Fiber 
 ---
