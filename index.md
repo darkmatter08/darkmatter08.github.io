@@ -2,22 +2,16 @@
 layout: page
 title: Shawn Jain's Homepage
 # tagline: Shawn Jain's Homepage
-description: Shawn Jain MIT Microsoft Research MSR Uber UberATG ATG Torralba CSAIL Optimus Optimus Ride Spot Trading Google Fiber 
+description: Shawn Jain OpenAI MIT Microsoft Research MSR Uber UberATG ATG Torralba CSAIL Optimus Optimus Ride Spot Trading Google Fiber
 ---
 
 ![Shawn](assets/profilepic.jpeg )
 
-### 12/7: [OpenAI Talk](/talk)
-
 ---
 
-I am currently an **AI Resident** at **Microsoft Research**.
+I am currently a **Member of Technical Staff** at **OpenAI**.
 
-I'm working on general purpose methods for efficient training and inference in NNs via approximate tensor operations, mentored by [Greg Yang](https://github.com/thegregyang).
-
-I previously worked with [Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/) and [Yonatan Bisk](https://yonatanbisk.com/), investigating [Transformer models' temporal reasoning ability](pages/blog-transformers-poster.html).
-
-I am increasingly interested in genetic algorithms and feedback alignment -- alternatives to backprop.
+I'm working on code generation - getting LLMs to write better code.
 
 <!-- I think [Robo-Doctors](pages/blog-robodoc) will transform "healthcare" into "health." -->
 
@@ -34,10 +28,23 @@ I transfer tech from lab to product.
 
 Contact me to turn your once-in-a-lifetime moonshot into reality.
 
+### Previous Collaborators
+
+I worked with [Ken Stanley](https://en.wikipedia.org/wiki/Kenneth_Stanley) and [Joel Lehman](http://joellehman.com/) at OpenAI on Open-Ended algorithms. I contributed to the [Evolution through Large Models (ELM) paper](https://arxiv.org/abs/2206.08896).
+
+I was mentored by [Greg Yang](https://github.com/thegregyang) at Microsoft Research on general purpose methods for efficient training and inference in NNs via approximate tensor operations. I am increasingly interested in genetic algorithms and feedback alignment -- alternatives to backprop.
+
+I worked with [Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/) and [Yonatan Bisk](https://yonatanbisk.com/), investigating [Transformer models' temporal reasoning ability](pages/blog-transformers-poster.html).
+
+At Uber ATG (now [Aurora](https://aurora.tech/)) I worked with a bumch of people on perception, localization, calibration, and lidar.
+
+I was advised by [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) at MIT, and worked closely with PhD candidate [Xavi Puig](https://www.xavierpuigf.com/).
+
+I interned at Google Fiber (2014) where I worked with [Denny Gentry](https://codingrelic.geekhold.com/) and [Avery Pennarun](https://apenwarr.ca/log/).
+
 ### Web Presence
 - [GitHub](https://github.com/darkmatter08)
 - [LinkedIn](https://www.linkedin.com/in/jainshawn/)
-- [MSR page](https://www.microsoft.com/en-us/research/people/jains/)
 
 ### Work History
 If you're interested in my work history, try my [resume](/assets/resume.pdf) or my [LinkedIn](https://www.linkedin.com/in/jainshawn/).

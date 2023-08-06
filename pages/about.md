@@ -26,7 +26,9 @@ Contact me to turn your once-in-a-lifetime moonshot into reality.
 
 I also respond to [LinkedIn](https://www.linkedin.com/in/jainshawn/) messages.
 
-### Formal Documents
+### Writing
+
+*Evolution through Large Models* [[pdf](https://arxiv.org/pdf/2206.08896.pdf)]
 
 *Do Transformers Understand Time?* [[pdf](/assets/media/TransformersTime/TransformersTime_EMNLP_style_short.pdf)]
 
