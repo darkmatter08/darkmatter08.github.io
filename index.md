@@ -36,11 +36,13 @@ I was mentored by [Greg Yang](https://github.com/thegregyang) at Microsoft Resea
 
 I worked with [Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/) and [Yonatan Bisk](https://yonatanbisk.com/), investigating [Transformer models' temporal reasoning ability](pages/blog-transformers-poster.html).
 
-At Uber ATG (now [Aurora](https://aurora.tech/)) I worked with a bumch of people on perception, localization, calibration, and lidar.
+At Uber ATG (now [Aurora](https://aurora.tech/)) I worked with a bunch of people on perception, localization, calibration, and lidar.
 
-I was advised by [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) at MIT, and worked closely with PhD candidate [Xavi Puig](https://www.xavierpuigf.com/).
+I was advised by [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) at MIT, and worked closely with PhD candidate [Xavi Puig](https://www.xavierpuigf.com/) (now at FAIR).
 
 I interned at Google Fiber (2014) where I worked with [Denny Gentry](https://codingrelic.geekhold.com/) and [Avery Pennarun](https://apenwarr.ca/log/).
+
+[George Hotz](https://en.wikipedia.org/wiki/George_Hotz) offered me an intership one time.
 
 ### Web Presence
 - [GitHub](https://github.com/darkmatter08)
