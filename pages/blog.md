@@ -3,6 +3,10 @@ layout: page
 title: Blog
 description: Shawn Jain's Blog
 ---
+#### [The Smart Traffic Signal Platform<br><sup>October 2020</sup>](blog-intelligent-traffic.html)
+AI Traffic Management, and how it will enable next-gen ADAS and safer Self Driving.
+
+* * *
 
 #### [Why Hard Tech<br><sup>September 2020</sup>](blog-hard-tech.html)
 Why I work on hard tech, and not social media or web apps.
