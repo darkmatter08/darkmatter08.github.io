@@ -47,6 +47,8 @@ I interned at Google Fiber (2014) where I worked with [Denny Gentry](https://cod
 ### Web Presence
 - [GitHub](https://github.com/darkmatter08)
 - [LinkedIn](https://www.linkedin.com/in/jainshawn/)
+- [Google Scholar](https://scholar.google.com/citations?user=Q-y7Yn4AAAAJ&hl=en)
+- [X/Twitter (rarely used)](https://twitter.com/darkmatter08)
 
 ### Work History
 If you're interested in my work history, try my [resume](/assets/resume.pdf) or my [LinkedIn](https://www.linkedin.com/in/jainshawn/).
