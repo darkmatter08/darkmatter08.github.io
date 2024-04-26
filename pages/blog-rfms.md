@@ -5,11 +5,13 @@ description: Robotics Foundation Models RFMs Robotics FMs
 
 ---
 
+<div align="center"><img src="/assets/media/rfms/multipurpose_robot.jpg" width="300" height="200" alt="RFMs" class="center"></div>
+
 Foundation models can solve many different tasks with a single model. LLMs like GPT-4 can summarize a doc, translate English to Afrikaans, generate code, and interpret images, solving hundreds of different text tasks with a single model. Previously, each of these tasks would have required a separate model, but the single foundation model outperforms the previous task-specific model.
 
 Robotics Foundation Models (RFMs) bring the foundation model paradigm to the physical world. Currently, most robots are driven by autonomy software designed for each task. A robot driven by an RFM will be able to solve hundreds of different tasks across many different environments. Imagine a single robot that can change your car’s oil, deliver food and supplies to patient rooms in a hospital, and fold laundry in your home. Imagine [zero-shot learning](https://www.ibm.com/topics/zero-shot-learning) in the physical world. This is the promise of RFMs.
 
-Because RFMs are based on transformer models (like GPT-4), they inherit [scaling laws](https://arxiv.org/pdf/2001.08361) in compute and data, and are strong generalizers in new domains. These properties allow for a step-function change over previous autonomy approaches, and will advance us towards general purpose robots, in new form factors, operating in new environments. I explore the implications of this foundational technology for the robotics market and opportunities for startups.
+Because RFMs are based on transformer models (like GPT-4), they inherit [scaling laws](https://arxiv.org/pdf/2001.08361) in compute and data, and are strong generalizers in new domains. These properties allow for a step-function change over previous autonomy approaches, and will advance us towards general purpose robots, in new form factors, operating in new environments. In this post, I explore the implications of this foundational technology for the robotics market and opportunities for startups.
 
 This outline will help guide you through this document.
 
@@ -47,13 +49,11 @@ VI. [Resources](#vi-resources)
 
 Robotics Foundation Models (RFMs) are Transformer models co-trained on Robotics data. The model takes as input a natural language instruction, like “move the banana onto the plate,” and images from the robot’s cameras, and the model outputs a robotic action, commanding the robot into a particular pose.
 
-The most exciting recent work in RFMs is the RT- series of papers by Google DeepMind. They scaled up RFMs with data from many different robot embodiments, tasks, and data formats, and observed positive transfer. As a made up example, data from a single-arm robot on a pick-and-place task actually helped a humanoid robot fold laundry.
+The most exciting recent work in RFMs is the RT- series of papers by Google DeepMind. In RT-X, the researchers scaled up RFMs with data from many different robot embodiments, tasks, and data formats, and observed positive transfer. As a made up example, data from a single-arm robot on a pick-and-place task improved a humanoid robot's ability to fold laundry.
 
 This happened because Transformer models are extremely strong generalizers. And we’re at the very beginning of the data scaling curve for RFMs.
 
-There are two important takeaways from this, with respect to training data:
-
-
+There are two important takeaways from this work, with respect to training data:
 
 1. We need more data, and we can generate that data from simulators. The [sim2real gap](https://sim2real.github.io/) will shrink because these models are strong generalizers.
 2. RFMs replace the typical perception-planning-controls autonomy stack with a single model trained end-to-end. Therefore, RFMs don’t enforce any intermediate representation; instead, the representation is implicitly chosen by learning. That compute + learning beats human design is the crux of [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html). This also means that there is no need to label the intermediate representations, _which makes data collection much cheaper and therefore more scalable_.
@@ -66,14 +66,14 @@ We need data, and simulation can help.
 
 #### a. Data Generation via simulation
 
-A 3D simulator will contain an “environment,” e.g. a table with objects on it, a robot, and a programmatically defined goal matching the natural language instruction. The simulated robot is driven to satisfy the goal, generating a sequence of robotics actions. Images of the simulated environment are captured from the simulated robot’s virtual cameras. This triple of natural language instruction, images, and a sequence of actions forms a single training datum.
+A 3D simulator contains an “environment,” e.g. a table with objects on it, a robot, and a goal matching the natural language instruction. The simulated robot is driven to satisfy the goal, generating a sequence of robotics actions. Images of the simulated environment are captured from the simulated robot’s virtual cameras. This triple of natural language instruction, images, and a sequence of actions forms a single training datum.
 
-The simulated robot could be driven by a human, by known good autonomy software for the specific task, or by an existing model, and good samples selected manually via human review, or automatically, by checking if it satisfies the goal.
+The simulated robot could be driven by a human, by known good autonomy software for the specific task, or by an existing model, and good samples selected manually via human review, or automatically, by checking if the robot satisfied the goal.
 
 
 #### b. Design and Evaluate novel robots and models in simulation
 
-We want to use RFMs to drive all kinds of robots, even if they have a very novel form-factor or are designed to accomplish an unusual task. For example, RFMs should still be able to drive an underwater or space robot, even if they have very different sensors, actuators, and environments.
+We want to use RFMs to drive all kinds of robots, even if they have a very novel form-factor or are designed to accomplish an unusual task. For example, an RFM should be able to drive an underwater and a space robot, even if they have very different sensors, actuators, and environments.
 
 Instead of building and testing the robot in the physical world, which is costly, time-consuming, not scalable, and may not be possible, we want to build and test robots entirely in simulation, and have high confidence that the result will perform in the real world. This will make robot design much more accessible.
 
@@ -100,6 +100,9 @@ Not all of these companies can make the capital and technical investments to dev
 
 Why doesn’t the self-driving industry have such a network? It’s dominated by a few large players like Waymo and Cruise, who are well capitalized and highly vertically integrated. For example, Waymo developed an in-house Lidar instead of using Velodyne, and Cruise developed an in-house ML accelerator chip. The Waymo Driver (Simulator) has 20 billion simulated miles of experience. In contrast, Applied Intuition supplies driving simulators for ADAS development to traditional automakers.
 
+<div align="center"><img src="/assets/media/rfms/network.jpg" width="200" height="200" alt="Timeline">
+<figcaption>Visualizing the network of suppliers as a stack</figcaption>
+</div>
 
 ### IV. The Startup Opportunity in Simulation
 
@@ -145,10 +148,13 @@ And just like in LLMs, robotics companies will need to customize the foundation 
 
 #### d. Network Effect - Crowdsourced Reinforcement Learning
 
-There is a network effect that we can get by offering both data generation and evaluation.  Specifically, we can create a high-level RL loop against the situations. We could use the goals created by our users as a reward function, and train a policy model against this reward function using PPO or some other RL algorithm. This is a ‘crowdsourced’ version of [Reinforcement Learning from Human Feedback](https://openai.com/research/instruction-following) (RLHF). Users could be incentivized to share their environments because they could receive a better model in return. Because the evals are run on our service, the users' environments are not shared with other users directly, preserving privacy.
+There is a network effect that we can get by offering both data generation and evaluation.  Specifically, we can create a high-level reinforcement learning (RL) loop against the situations. Goals created by users can be used as a reward function, and a policy model can be trained against this reward function using PPO or some other RL algorithm. This is a ‘crowdsourced’ version of [Reinforcement Learning from Human Feedback](https://openai.com/research/instruction-following) (RLHF). Users could be incentivized to share their environments because they could receive a better model in return. Because the evals are run on our service, the users' environments are not shared with other users directly, preserving privacy.
 
 
 #### e. Product Evolution
+<div align="center"><img src="/assets/media/rfms/timeline.jpg" width="500" height="200" alt="Timeline">
+<figcaption>Product Evolution Timeline</figcaption>
+</div>
 
 **Step 1 (short shelf-life):**
 
@@ -173,7 +179,7 @@ I expect these three steps to be completed within 18 months of founding.
 
 RFMs have two key properties. Firstly, they are strong generalizers; data from one robot in one environment can help the model control a different robot in a new environment. Secondly, they inherit [scaling laws](https://arxiv.org/pdf/2001.08361) from Transformer models.
 
-Therefore, RFMs 1. can control a wide variety of robots, in different environments, on diverse tasks and 2. require large and diverse data to be performant. This is fundamentally different from current robotics approaches, which use domain-specific software stacks trained on limited in-domain data. The first will create a proliferation of novel robot deployments, driving the demand for simulated evaluations, and the second will drive the adoption of simulated data. This will change the structure of the robotics marketplace.
+Therefore, RFMs 1. can control a wide variety of robots, in different environments, on diverse tasks and 2. require large and diverse data to be performant. This is fundamentally different from current robotics approaches, which use domain-specific software stacks trained on limited in-domain data. The first will create a proliferation of novel robot deployments, driving the demand for simulated evaluations, and the second will drive the adoption of simulated data. These trends will change the structure of the robotics marketplace.
 
 Simulation is a key partner technology of RFMs, and a startup in this highly strategic space can capture a large amount of value in the supply network for robotics.
 
