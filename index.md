@@ -13,7 +13,8 @@ I am currently a **Member of Technical Staff** at **OpenAI**.
 
 I'm working on code generation - getting LLMs to write better code.
 
-<!-- I think [Robo-Doctors](pages/blog-robodoc) will transform "healthcare" into "health." -->
+### Updates
+Check out my new blog on [Robotics Foundation Models](pages/blog-rfms.html).
 
 ### Summary
 <!-- Travel to exotic lands on my company's private plane. Close deals on groundbreaking technologies. Be interesting to even the smartest people. -->

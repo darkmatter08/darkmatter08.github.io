@@ -3,6 +3,10 @@ layout: page
 title: Blog
 description: Shawn Jain's Blog
 ---
+#### [Opportunities in Robotics Foundation Models<br><sup>April 2024</sup>](blog-rfms.html)
+Robotics Foundation Models (RFMs) bring the foundation model paradigm to the physical world.
+
+* * *
 #### [The Smart Traffic Signal Platform<br><sup>October 2020</sup>](blog-intelligent-traffic.html)
 AI Traffic Management, and how it will enable next-gen ADAS and safer Self Driving.
 
