@@ -105,7 +105,7 @@ Why doesn’t the self-driving industry have such a network? It’s dominated by
 
 The opportunity is motivated by three major observations:
 
-1. Simulation allows for training data generation, key to improving model performance
+1. Simulation allows for training data generation, key to improving model performance.
 
 2. Simulation allows for the design and evaluation of new robots and models.
 
@@ -118,7 +118,7 @@ This suggests the need for a simulation provider who can offer data generation a
 
 The product is a 3D simulator. Within this simulator, they will be able to design environments (like a table with objects on it) and a robot. They will be able to define “goals” for this environment; e.g. move the banana from the right side to the left side of the table, programmatically. The triple of the environment, robot, and goal may be called a “situation”.
 
-For data generation, The simulated robot could be driven by a human, by known good autonomy software for the specific task, or by an existing model, and good samples selected manually via human review, or automatically, by checking if it satisfies the goal.
+For data generation, the simulated robot could be driven by a human, by known good autonomy software for the specific task, or by an existing model, and good samples selected manually via human review, or automatically, by checking if it satisfies the goal.
 
 For evaluation (testing), the robot will be driven by the model, and will count as ‘satisfactory’ if it meets the goal. Each situation will be randomized, and with more samples (attempts) taken, the user will have a more accurate representation of the model’s true performance. This is similar to sampling-based evals in the code-generation domain.
 
@@ -223,7 +223,7 @@ Why now? Large scale and performant multi-modal models have only become [availab
 **Robotics Startups**
 
 [1X](https://www.1x.tech/)
-* Eric Jang, a researcher from Google Robotics, moved here
+* Eric Jang, a researcher from Google Robotics, moved here.
 * Currently deployed robot EVE does not use RFMs.
 
 [Figure](https://figure.ai/)
@@ -238,6 +238,6 @@ Why now? Large scale and performant multi-modal models have only become [availab
 **RFM Startups**
 
 [Physical Intelligence](https://physicalintelligence.company/)
-* Star team, including co-authors of the RT- papers. Small team developing an RFM
+* Star team, including co-authors of the RT- papers. Small team developing an RFM.
 
 All these companies are actively recruiting.

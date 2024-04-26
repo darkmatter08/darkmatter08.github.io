@@ -13,8 +13,18 @@ I am currently a **Member of Technical Staff** at **OpenAI**.
 
 I'm working on code generation - getting LLMs to write better code.
 
-### Updates
+**Update**:
 Check out my new blog on [Robotics Foundation Models](pages/blog-rfms.html).
+
+### Startups
+I angel invest in and advise promising startups. [Reach out](pages/about.html) if you want to talk tech and startup strategy.
+
+Current:
+- [Synthefy](https://www.synthefy.com/)
+- [SyLogic](https://www.sylogic.co/)
+
+Previous:
+- [Voxel AI](https://www.voxelai.com/)
 
 ### Summary
 <!-- Travel to exotic lands on my company's private plane. Close deals on groundbreaking technologies. Be interesting to even the smartest people. -->
