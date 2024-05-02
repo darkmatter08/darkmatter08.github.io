@@ -3,6 +3,10 @@ layout: page
 title: Blog
 description: Shawn Jain's Blog
 ---
+#### [How to analyze new-technology startups<br><sup>May 2024</sup>](blog-investment-philosophy.html)
+How to analyze startups that are creating foundational technology.
+
+* * *
 #### [Opportunities in Robotics Foundation Models<br><sup>April 2024</sup>](blog-rfms.html)
 Robotics Foundation Models (RFMs) bring the foundation model paradigm to the physical world.
 
