@@ -21,6 +21,7 @@ Contact me to turn your once-in-a-lifetime moonshot into reality.
 
 ### Contact Me
 
+    me <at> shawnjain <dot> net
     jains <at> company <dot> com
     jains <at> school <dot> edu
 

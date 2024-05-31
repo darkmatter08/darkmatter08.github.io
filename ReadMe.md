@@ -2,7 +2,7 @@
 
 View it [here](https://darkmatter08.github.io/).
 
-[shawnjain.com](shawnjain.com) also points to this website.
+[shawnjain.net](shawnjain.net) also points to this website.
 
 Based on Karl Broman's [simple site](https://github.com/kbroman/simple_site).
 

@@ -9,12 +9,13 @@ description: Shawn Jain OpenAI MIT Microsoft Research MSR Uber UberATG ATG Torra
 
 ---
 
-I am currently a **Member of Technical Staff** at **OpenAI**.
-
 I'm working on code generation - getting LLMs to write better code.
 
-**Update**:
+**Update 1**:
 Check out my new blog on [Robotics Foundation Models](pages/blog-rfms.html).
+
+**Update 2**:
+MIT/Forbes Interview: [YouTube](https://www.youtube.com/watch?v=nfke20x0uM0).
 
 ### Startups
 I angel invest in and advise promising startups. [Reach out](pages/about.html) if you want to talk tech and startup strategy.
@@ -40,6 +41,8 @@ I transfer tech from lab to product.
 Contact me to turn your once-in-a-lifetime moonshot into reality.
 
 ### Previous Collaborators
+
+I launched the [Code Interpreter feature](https://x.com/OpenAI/status/1677015057316872192) in ChatGPT with the [CodeGen team at OpenAI](https://x.com/mattwiethoff/status/1678962867104776192). I trained the model to iteratively debug, using data augmentation techniques I researched.
 
 I worked with [Ken Stanley](https://en.wikipedia.org/wiki/Kenneth_Stanley) and [Joel Lehman](http://joellehman.com/) at OpenAI on Open-Ended algorithms. I contributed to the [Evolution through Large Models (ELM) paper](https://arxiv.org/abs/2206.08896).
 
