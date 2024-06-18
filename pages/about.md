@@ -4,7 +4,7 @@ title: About Me
 description: About Shawn Jain
 ---
 
-If you're interested in my work history, try my [resume](/assets/resume.pdf) or my [LinkedIn](https://www.linkedin.com/in/jainshawn/).
+If you're interested in my work history, try my [resume](/assets/resume.pdf) or my [LinkedIn](https://www.linkedin.com/in/shawnjain08/).
 
 ### Summary
 <!-- Travel to exotic lands on my company's private plane. Close deals on groundbreaking technologies. Be interesting to even the smartest people. -->
@@ -25,9 +25,9 @@ Contact me to turn your once-in-a-lifetime moonshot into reality.
     jains <at> company <dot> com
     jains <at> school <dot> edu
 
-I also respond to [LinkedIn](https://www.linkedin.com/in/jainshawn/) messages.
-
 ### Writing
+
+*GPT-4 Technical Report* [[pdf](https://arxiv.org/pdf/2303.08774)]
 
 *Evolution through Large Models* [[pdf](https://arxiv.org/pdf/2206.08896.pdf)]
 
