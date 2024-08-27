@@ -9,7 +9,11 @@ description: Shawn Jain OpenAI MIT Microsoft Research MSR Uber UberATG ATG Torra
 
 ---
 
-I'm working on code generation - getting LLMs to write better code.
+I am a co-founder at [Synthefy](synthefy.com). We are building generative AI for time-series data. 
+
+I am also a Venture Partner at [Lightscape Partners](lightscape.vc).
+
+Please [reach out](about.md) if you're interested in learning more, or are building something interesting yourself!
 
 **Update 1**:
 Check out my new blog on [Robotics Foundation Models](pages/blog-rfms.html).
