@@ -27,6 +27,8 @@ I angel invest in and advise promising startups. [Reach out](pages/about.html) i
 Current:
 - [Synthefy](https://www.synthefy.com/)
 - [SyLogic](https://www.sylogic.co/)
+- [Netail ProfitMind](https://www.profitmind.com/)
+- [Bucket Robotics](https://www.bucket.bot/)
 
 Previous:
 - [Voxel AI](https://www.voxelai.com/)
