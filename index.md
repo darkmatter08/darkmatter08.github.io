@@ -29,6 +29,7 @@ Current:
 - [SyLogic](https://www.sylogic.co/)
 - [Netail ProfitMind](https://www.profitmind.com/)
 - [Bucket Robotics](https://www.bucket.bot/)
+- [Felafax](https://felafax.ai/)
 
 Previous:
 - [Voxel AI](https://www.voxelai.com/)
