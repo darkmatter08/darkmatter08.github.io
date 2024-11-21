@@ -9,9 +9,9 @@ description: Shawn Jain OpenAI MIT Microsoft Research MSR Uber UberATG ATG Torra
 
 ---
 
-I am a co-founder at [Synthefy](synthefy.com). We are building generative AI for time-series data. 
+I am a co-founder at [Synthefy](https://www.synthefy.com). We are building generative AI for time-series data.
 
-I am also a Venture Partner at [Lightscape Partners](lightscape.vc).
+I am also a Venture Partner at [Lightscape Partners](https://www.lightscape.vc).
 
 Please [reach out](about.md) if you're interested in learning more, or are building something interesting yourself!
 
