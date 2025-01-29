@@ -30,6 +30,7 @@ Current:
 - [Netail ProfitMind](https://www.profitmind.com/)
 - [Bucket Robotics](https://www.bucket.bot/)
 - [Felafax](https://felafax.ai/)
+- [Harmony Intelligence](https://www.harmonyintelligence.com/)
 
 Previous:
 - [Voxel AI](https://www.voxelai.com/)
