@@ -3,6 +3,10 @@ layout: page
 title: Blog
 description: Shawn Jain's Blog
 ---
+#### [Wrappers vs. Runtimes: What Separates a Toy from a Breakout AI Product<br><sup>July 2025</sup>](blog-runtimes.html)
+A framework for separating Toys from Breakout AI Products.
+
+* * *
 #### [How to analyze new-technology startups<br><sup>May 2024</sup>](blog-investment-philosophy.html)
 How to analyze startups that are creating foundational technology.
 

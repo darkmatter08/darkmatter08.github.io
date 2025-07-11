@@ -15,11 +15,8 @@ I am also a Venture Partner at [Lightscape Partners](https://www.lightscape.vc).
 
 Please [reach out](about.md) if you're interested in learning more, or are building something interesting yourself!
 
-**Update 1**:
-Check out my new blog on [Robotics Foundation Models](pages/blog-rfms.html).
-
-**Update 2**:
-MIT/Forbes Interview: [YouTube](https://www.youtube.com/watch?v=nfke20x0uM0).
+**Update**:
+Check out my new blog on [Wrappers vs. AI Runtimes](pages/blog-runtimes.html).
 
 ### Startups
 I angel invest in and advise promising startups. [Reach out](pages/about.html) if you want to talk tech and startup strategy.
