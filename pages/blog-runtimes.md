@@ -81,8 +81,6 @@ This flywheel is why seemingly simple tools like Cursor or Windsurf can become d
 
 Outside of coding tools, we see similar patterns in Notion and Perplexity. Platforms with significant user-generated content are great places to spin the flywheel faster and faster.
 
-Anti-flywheels exist too. High-touch, relationship driven orgs often fail to scale. McKinsey is actually shrinking headcount, while OpenAI has scaled its team 10x in a few years. Feedback flywheels scale, people don’t.
-
 Anti-flywheels exist too. High-touch, relationship driven orgs often become worse with scale. McKinsey is actually shrinking headcount, while OpenAI has scaled its team 10x in a few years. Feedback flywheels scale, people don’t.
 
 ### **Why Runtimes Are Durable**
