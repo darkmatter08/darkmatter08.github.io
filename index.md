@@ -5,13 +5,15 @@ title: Shawn Jain's Homepage
 description: Shawn Jain OpenAI MIT Microsoft Research MSR Uber UberATG ATG Torralba CSAIL Optimus Optimus Ride Spot Trading Google Fiber
 ---
 
-![Shawn](assets/profilepic.jpeg )
+![Shawn](assets/NewProfilePic.jpeg)
 
 ---
 
-I am a co-founder at [Synthefy](https://www.synthefy.com). We are building generative AI for time-series data.
+I am a founding General Partner at [Zero Shot Fund](https://zeroshotfund.com/).
 
 I am also a Venture Partner at [Lightscape Partners](https://www.lightscape.vc).
+
+Previously, I co-founded [Synthefy](https://www.synthefy.com/). We built generative AI for time-series data.
 
 Please [reach out](about.md) if you're interested in learning more, or are building something interesting yourself!
 
@@ -22,6 +24,8 @@ Check out my new blog on [Wrappers vs. AI Runtimes](pages/blog-runtimes.html).
 I angel invest in and advise promising startups. [Reach out](pages/about.html) if you want to talk tech and startup strategy.
 
 Current:
+- [BullAI Labs](https://www.bullai.tech/)
+- [Ecotone AI](https://ecotone.ai/)
 - [Synthefy](https://www.synthefy.com/)
 - [SyLogic](https://www.sylogic.co/)
 - [Netail ProfitMind](https://www.profitmind.com/)
